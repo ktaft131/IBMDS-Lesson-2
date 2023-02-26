@@ -1,1 +1,1 @@
-#Inserting Lesson 2 
+#Checkout Lesson 2 
